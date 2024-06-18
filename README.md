@@ -1,4 +1,4 @@
-Certificae of Insurance Provider (Certitech) Project Overview:
+Certificae of Insurance Provider Project Overview:
 
 Tools Used:
 Remix
